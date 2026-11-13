@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.mp4
+*.avi
+debug_ocr.png
+data/test_videos/
+models/
+.vscode/
